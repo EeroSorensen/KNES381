@@ -1,4 +1,6 @@
-# This is my title (must figure out how to centre this text) 
+<h1 align="center"> 
+HTML Page on Git
+</h1>
 
 **the five elements that is needed on my page**
 1. The centered title
