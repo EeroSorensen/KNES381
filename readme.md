@@ -6,8 +6,6 @@
 HTML Page on Git
 </h1>
 
-<img src="Rock-paper-scissors.svg" alt="Rock Paper Scisscors">
-
 **the five elements that is needed on my page**
 1. The centered title
 2. a picture to the right of this
