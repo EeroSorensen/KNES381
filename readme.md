@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <body>
 
 <h1 align="center"> 
@@ -14,6 +14,21 @@ HTML Page on Git
 5. a subscript of a text^2 (something like a square)
 
 ${\color{red}This \space is \space my \space coloured \space font.}$
+
+
+This is the text to the right of my image
+<img src="diana-parkhouse-5RY9GtjPXZM-unsplash.jpg" 
+  alt="Cool Looking Deer" 
+  width="300px" height="600px" 
+  style="float:right; margin-left:10;">
+
+
+
+
+
+
+
+
 
 
 </body>
