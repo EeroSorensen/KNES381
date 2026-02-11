@@ -10,7 +10,6 @@
 
 ${\color{red}This \space is \space my \space coloured \space font.}$
 
-
 ### Subscript
 
 VO<sub>2</sup> 
